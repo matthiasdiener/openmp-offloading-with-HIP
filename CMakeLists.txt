@@ -1,3 +1,5 @@
+# Copyright (c) 2025, Advanced Micro Devices, Inc. All rights reserved.
+
 cmake_minimum_required(VERSION 3.20)
 project(MixedOffload LANGUAGES HIP CXX)
 

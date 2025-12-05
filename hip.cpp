@@ -1,3 +1,5 @@
+// Copyright (c) 2025, Advanced Micro Devices, Inc. All rights reserved.
+
 #include <hip/hip_runtime.h>
 
 __global__ void saxpy_kernel(float* __restrict__ y, const float* __restrict__ x,    float a, int n)
